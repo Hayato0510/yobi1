@@ -7,4 +7,11 @@ use Illuminate\Http\Request;
 class AdController extends Controller
 {
     //
+    public function os(Request $request) {
+        $user_agent =  $request->header('User-Agent');
+        if ((strpos($user_agent, 'iPhone') !== false)) {
+            return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=21249'); //SecretChat友達直追加 - fam
+        }
+        return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=21189'); //SecretChat友達直追加 - fam
+    }
 }
