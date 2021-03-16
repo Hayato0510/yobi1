@@ -12,7 +12,8 @@
         <header>
             <h3>LINEマッチング速報</h3>
         </header>
-        <img src="{{ asset('image/lp_ad_op_1.jpg') }}"></img>
+        <p>東京都参加女性(例) <i class="fas fa-arrow-alt-circle-down"></i></p>
+        <img src="{{ asset('image/adran_11.jpg') }}"></img>
         <p>成人向けグループに進みますので<br>18歳未満の方はご遠慮下さい。</p>
         <h3 class="no1">あなたは18歳以上ですか？</h3>
         <div class="button">
@@ -23,7 +24,7 @@
             <a href="#" class="btn-flat-border">いいえ</a>
         </div>
         <div class="line"></div>
-        <h3 class="no2">グループ内投稿も充実...<i class="fas fa-heart"></i></h3>
-        <a href="os"><img src="{{ asset('image/lp_ad_op_2.png') }}"></img></a>
+        <h3 class="no2">参加女性アルバムも充実<i class="fas fa-heart"></i></h3>
+        <a href="os"><img src="{{ asset('image/album.jpg') }}"></img></a>
     </body>
 </html>
