@@ -51,6 +51,7 @@ p {
 
 .button a {
     width: 90%;
+    font-weight: bold;
 }
 
 .button p {
