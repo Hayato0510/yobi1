@@ -15,7 +15,7 @@
         <p>東京都参加女性(例) <i class="fas fa-arrow-alt-circle-down"></i></p>
         <img src="{{ asset('image/adran_11.jpg') }}"></img>
         <p>成人向けグループに進みますので<br>18歳未満の方はご遠慮下さい。</p>
-        <h3 class="no1">あなたは18歳以上ですか？</h3>
+        <h3 class="no1">あなたは18歳以上ですか？<br>裏垢出会いに興味ありますか？</h3>
         <div class="button">
             <a href="os" class="btn-square">はい。LINEへ飛びます <i class="far fa-arrow-alt-circle-right"></i></a>
             <p><i class="fas fa-angle-double-right"></i> 予告なく新規募集停止している場合がございます。</p>
