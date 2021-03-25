@@ -19,9 +19,9 @@
                 <h1><span>37歳おっさんが『真剣に』出会い探してみた結果...</span></h1>
                 <h1><span>出会いを目的とした<br>『裏掲示板』が今熱い！</span></h1>
                 <a href="./os" target="_blank"><img src="{{ asset('image/lp_ad_1.JPG') }}"></a>
-                <h1><span>某有名アダルト掲示板のアプリ版</span></h1>
-                <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 最短1分で始める <i class="fas fa-external-link-alt"></i></a>
-                <h1 class="button_below_h1"><span>一見普通のアプリだが...実際は..。</span></h1>
+                <h1><span>某有名アダルト掲示板がある出会い系</span></h1>
+                <a href="./os" target="_blank" class="btn-square-shadow">無料 & 最短1分で始める <i class="fas fa-external-link-alt"></i></a>
+                <h1 class="button_below_h1"><span>一見普通の出会いサイトだが...実際は..。</span></h1>
             </div>
             
             <div class="big-body-main">
@@ -41,7 +41,7 @@
                     <br>
                     <br>
                     <h3>連絡用TwitterIDが載っていて、即アポも可能..!?</h3>
-                    <p>基本的には掲示板にある気になる投稿を見てまずはアプリ内で会話する形だけど、<span class="red">直接SNSでやり取りするのもOK</span>。<br><br>中にはTwitterIDなどを常に公開してる女性もおり、定期的にオフ会を開催しているケースも。オフ会でなにをするかは言わずもがな。</p>
+                    <p>基本的には掲示板にある気になる投稿を見てまずは会話する形だけど、<span class="red">直接SNSでやり取りするのもOK</span>。<br><br>中にはTwitterIDなどを常に公開してる女性もおり、定期的にオフ会を開催しているケースも。オフ会でなにをするかは言わずもがな。</p>
                     <img src="{{ asset('image/uraLive_1.JPG') }}">
                     <br>
                     <br>
@@ -55,12 +55,12 @@
                     <img src="{{ asset('image/lp_ad_5.JPG') }}">
                     <br>
                     <br>
-                    <h3>いつアプリ規制されるか分からない<br>サービス停止前に入っていつでも戻れるようにしよう</h3>
-                    <p>これだけの裏サービス。いつ規制されてアプリストアから消されるか分かりません。<br>ただ、<span class="red">一度インストールしてるといつでも戻ってこれる</span>のでまずはインストールだけでもオススメです。</p>
+                    <h3>いつ規制されるか分からない<br>サービス停止前に入っていつでも戻れるようにしよう</h3>
+                    <p>これだけの裏サービス。いつ規制されて消されるか分かりません。<br>ただ、<span class="red">一度無料会員登録してるといつでも戻ってこれる</span>のでまずは会員登録だけでもオススメです。</p>
                     <div class="center">
-                        <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 最短1分で始める <i class="fas fa-external-link-alt"></i></a>
+                        <a href="./os" target="_blank" class="btn-square-shadow">無料 & 最短1分で始める <i class="fas fa-external-link-alt"></i></a>
                     </div>
-                    <p class="button_below_p">一見普通のアプリだが...実際は..。</p>
+                    <p class="button_below_p">一見普通だが...実際は..。</p>
                     <div class="line2"></div>
                     <div class="center">
                         <a href="./os" target="_blank"><img src="{{ asset('image/lp_ad_6.JPG') }}"></a>
