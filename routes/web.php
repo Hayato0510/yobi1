@@ -12,8 +12,8 @@
 */
 //LP獲得用
 Route::get('live1', function () {
-    // return view('yt.check'); //仮LP
-    return view('yt.noMatch'); //獲得用 - アダルトアプリ
+    return view('yt.check'); //仮LP
+    // return view('yt.noMatch'); //獲得用 - アダルトアプリ
     
     // return view('yt.line'); //獲得用 - LINE
     // return redirect('https://a-trade.jp/redirect/mocom-mail?media=G16531'); //モコム(メアド) - Aトレード
